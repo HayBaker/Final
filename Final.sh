@@ -1,2 +1,7 @@
+#!/bin/bash
 
-This is the first push
+for n in {1..50}
+do
+echo $n
+sleep 1
+done
