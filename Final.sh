@@ -2,6 +2,6 @@
 
 for n in {1..50}
 do
-echo $n
-sleep 1
+  echo $n
+  sleep 1
 done
