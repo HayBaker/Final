@@ -42,7 +42,7 @@ nano yourfilename.txt
 ```
 ## What code means
 Line one I use a shbang #! and /bin/bash. This tells the nano editor waht scripting language we are using.
-On line 
+On line three I used the for loop: for n in { 
 
 ## Errors and Fixes
 Was not autherized with the terminal and GitHub. I fixed it by using 
