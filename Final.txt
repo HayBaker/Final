@@ -6,4 +6,3 @@ do
   sleep 0.001
 done
   echo "If you see this the program worked and ran."
-
