@@ -5,3 +5,4 @@ do
   echo $n
   sleep 0.01
 done
+  echo "If you see this the program worked and ran."
