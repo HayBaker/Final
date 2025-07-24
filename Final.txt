@@ -3,6 +3,7 @@
 for n in {1..50}
 do
   echo $n
-  sleep 0.01
+  sleep 0.001
 done
   echo "If you see this the program worked and ran."
+
